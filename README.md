@@ -18,23 +18,23 @@
 
 ## Screenshots of Challenge #1: Customer View
 
-![Needs-not-Wants-Bamazon-app](images/Customer-Start.png)
+![Needs-not-Wants-Bamazon-app](Needs-not-Wants-Bamazon-app/images/Customer-Start.png)
 
-![Needs-not-Wants-Bamazon-app](images/Customer-Ordering-Process.png)
+![Needs-not-Wants-Bamazon-app](Needs-not-Wants-Bamazon-app/images/Customer-Ordering-Process.png)
 
-![Needs-not-Wants-Bamazon-app](images/Customer-End-Function.png)
+![Needs-not-Wants-Bamazon-app](Needs-not-Wants-Bamazon-app/images/Customer-End-Function.png)
 
 ## Screenshots of Challenge #2: Manager View
 
-![Needs-not-Wants-Bamazon-app](images/Manager-Menu.png)
+![Needs-not-Wants-Bamazon-app](Needs-not-Wants-Bamazon-app/images/Manager-Menu.png)
 
-![Needs-not-Wants-Bamazon-app](images/Manager-View-Product.png)
+![Needs-not-Wants-Bamazon-app](Needs-not-Wants-Bamazon-app/images/Manager-View-Product.png)
 
-![Needs-not-Wants-Bamazon-app](images/Manager-Low-Inventory.png)
+![Needs-not-Wants-Bamazon-app](Needs-not-Wants-Bamazon-app/images/Manager-Low-Inventory.png)
 
-![Needs-not-Wants-Bamazon-app](images/Manager-Re-Stock.png)
+![Needs-not-Wants-Bamazon-app](Needs-not-Wants-Bamazon-app/images/Manager-Re-Stock.png)
 
-![Needs-not-Wants-Bamazon-app](images/Add-Product.png)
+![Needs-not-Wants-Bamazon-app](Needs-not-Wants-Bamazon-app/images/Add-Product.png)
 
 
 
