@@ -18,23 +18,23 @@
 
 ## Screenshots of Challenge #1: Customer View
 
-![Needs-not-Wants-Bamazon-app](https://ibb.co/jD9hk2c)
+<img src="https://ibb.co/jD9hk2c" width="650"/>
 
-![Needs-not-Wants-Bamazon-app](https://ibb.co/whXdNzC)
+<img src="https://ibb.co/whXdNzC" width="650"/>
 
-![Needs-not-Wants-Bamazon-app](https://ibb.co/pwBdVn3)
+<img src="https://ibb.co/pwBdVn3" width="650"/>
 
 ## Screenshots of Challenge #2: Manager View
 
-![Needs-not-Wants-Bamazon-app](https://ibb.co/NKv0g4n)
+<img src="https://ibb.co/NKv0g4n" width="650"/>
 
-![Needs-not-Wants-Bamazon-app](https://ibb.co/tHNjZ9W)
+<img src="https://ibb.co/tHNjZ9W" width="650"/>
 
-![Needs-not-Wants-Bamazon-app](https://ibb.co/5Lt2KXP)
+<img src="https://ibb.co/5Lt2KXP" width="650"/>
 
-![Needs-not-Wants-Bamazon-app](https://ibb.co/fNkfWtn)
+<img src="https://ibb.co/fNkfWtn" width="650"/>
 
-![Needs-not-Wants-Bamazon-app](https://ibb.co/xDHyZPx)
+<img src="https://ibb.co/xDHyZPx" width="650"/>
 
 
 
