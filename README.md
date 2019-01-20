@@ -18,23 +18,23 @@
 
 ## Screenshots of Challenge #1: Customer View
 
-<img src="images/Customer-Start.png" width="650"/>
+<img src="Needs-not-Wants-Bamazon-app/Images/Customer Start.png" width="650"/>
 
-<img src="images/Customer-Ordering-Process.png" width="650"/>
+<img src="Needs-not-Wants-Bamazon-app/Images/Customer Ordering Process.png" width="650"/>
 
-<img src="images/Customer-End-Function.png" width="650"/>
+<img src="Needs-not-Wants-Bamazon-app/Images/Customer-End-Function.png" width="650"/>
 
 ## Screenshots of Challenge #2: Manager View
 
-<img src="images/Manager-Menu.png" width="650"/>
+<img src="Needs-not-Wants-Bamazon-app/Images/Manager-Menu.png" width="650"/>
 
-<img src="images/Manager-View-Product.png" width="650"/>
+<img src="Needs-not-Wants-Bamazon-app/Images/Manager-View-Product.png" width="650"/>
 
-<img src="images/Manager-Low-Inventory.png" width="650"/>
+<img src="Needs-not-Wants-Bamazon-app/Images/Manager-Low-Inventory.png" width="650"/>
 
-<img src="images/Manager-Re-Stock.png" width="650"/>
+<img src="Needs-not-Wants-Bamazon-app/Images/Manager-Re-Stock.png" width="650"/>
 
-<img src="mages/Add-Product.png" width="650"/>
+<img src="Needs-not-Wants-Bamazon-app/Images/Add-Product.png" width="650"/>
 
 
 
